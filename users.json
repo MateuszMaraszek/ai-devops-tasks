@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jan Kowalski",
+      "email": "jan@example.com",
+      "roles": ["admin", "user"]
+    },
+    {
+      "id": 2,
+      "name": "Anna Nowak",
+      "email": "anna@example.com",
+      "roles": ["user"]
+    },
+    {
+      "id": 3,
+      "name": "Piotr Wiśniewski",
+      "email": "piotr@example.com",
+      "roles": ["moderator", "user"]
+    },
+    {
+      "id": 4,
+      "name": "Maria Dąbrowska",
+      "email": "maria@example.com",
+      "roles": ["user"]
+    }
+  ]
+} 
